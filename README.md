@@ -23,7 +23,7 @@
 
 1. **克隆项目**
    ```bash
-   git clone https://github.com/yourusername/LocalMusicIdentifier.git
+   git clone https://github.com/sheep1026/CloudMusicPlayer
 
 2. **安装后端依赖**
    ```bash
